@@ -1,5 +1,8 @@
 package com.nabendu;
 
+/**
+ * @Author: Nabendu Bikash Binda
+ */
 public class LinkList {
     Node head;
     Node tail;
