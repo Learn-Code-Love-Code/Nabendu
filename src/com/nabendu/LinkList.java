@@ -144,6 +144,7 @@ class Node{
 }
 class LinkListChecker{
     public static void main(String[] args) {
+        //-----Below of all this code for just test purpuse for linked list---------------------
         LinkList linkList = new LinkList();
         linkList.insertFront(34);
         linkList.insertEnd(23);
