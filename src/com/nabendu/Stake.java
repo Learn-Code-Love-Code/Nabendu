@@ -1,4 +1,9 @@
 package com.nabendu;
+
+/**
+ * this is generic type Stake
+ * @param <p>
+ */
 public class Stake<p> {
     final p [] stake;
     public int presentSize=0;
